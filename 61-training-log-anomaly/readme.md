@@ -39,11 +39,11 @@ While the load is ongoing in the application, do the following steps to enable t
 
 1. Goto the page `Data and tool connections` and select `Humio` 
 
-!\[bookinfo\](./images/image-00002.png)
+![bookinfo](./images/image-00002.png)
 
 2. Click on the humio connection `humio-connect-bookinfo`
 
-!\[bookinfo\](./images/image-00003.png)
+![bookinfo](./images/image-00003.png)
 
 3. Select the `Data flow` : `On`
 
@@ -51,7 +51,7 @@ While the load is ongoing in the application, do the following steps to enable t
 
 5. Click on the `Save`
 
-!\[bookinfo\](./images/image-00004.png)
+![bookinfo](./images/image-00004.png)
 
 
 Now the live data would get copied to AIMgr.
@@ -64,7 +64,7 @@ After 10 minutes, live logs can be disbled.
 
 2. Click on the `Save`
 
-!\[bookinfo\](./images/image-00005.png)
+![bookinfo](./images/image-00005.png)
 
 ## 5. Stop Load
 
@@ -76,15 +76,15 @@ Click on `Ctrl+C` to stop load script.
 
 2. Click on `Manage` tab
 
-!\[bookinfo\](./images/image-00006.png)
+![bookinfo](./images/image-00006.png)
 
 3. Click on `log-anomaly-detection` link
 
-!\[bookinfo\](./images/image-00007.png)
+![bookinfo](./images/image-00007.png)
 
 4. Click on `Start Training` link
 
-!\[bookinfo\](./images/image-00008.png)
+![bookinfo](./images/image-00008.png)
 
 The training would start and go for `20 to 30 minutes` based on the data size.
 
@@ -94,5 +94,5 @@ You will have `Training Complete` status once the training is done.
 
 You can see the version trained and deployed.
 
-!\[bookinfo\](./images/image-00009.png)
+![bookinfo](./images/image-00009.png)
 

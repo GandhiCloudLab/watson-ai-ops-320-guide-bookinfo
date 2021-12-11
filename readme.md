@@ -91,7 +91,7 @@ Here is the architecture that we are going to setup.
         <td>Install BookInfo app on the managed environment</td>
         <td>
 
-[Details](./20-application-installation)</td>
+[Details](./20-application-installation/01-iks)</td>
     </tr>
 </table>
 
@@ -245,7 +245,7 @@ Here is the architecture that we are going to setup.
         <td>Generate the load for the app.</td>
         <td>
 
-[Details](./21-application-load-generation/01-iks)
+[Details](./21-application-load-generation)
         </td>
     </tr>    
     <tr>

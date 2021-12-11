@@ -6,7 +6,7 @@ https://docs.humio.com/docs/ingesting-data/log-formats/kubernetes/
 
 We have downloaded the same and kept in the folder `humio-helm-charts`
 
-You can also refer  [here](./humio-helm-charts),
+You can also refer  [here](./files-bookinfo/humio-helm-charts),
 
 
 ## 1. Update Override.yaml
