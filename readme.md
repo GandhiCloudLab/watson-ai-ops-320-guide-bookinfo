@@ -6,6 +6,9 @@ The article is based on the the following
  - RedHat OpenShift 4.8 on IBM Cloud (ROKS)
  - Watson AIOps 3.2.0
 
+#### Note :
+
+We are migrating this document from WA 3.1 to WA 3.2. So this is a work in-progress document and frequent changes are expected.
 
 ### Architecture
 
@@ -255,7 +258,7 @@ Here is the architecture that we are going to setup.
         <td>[Details](./61-training-log-anomaly)</td>
     </tr>
     <tr>
-        <td>8.4</td>
+        <td>8.3</td>
         <td>Similar Incidents training </td>
         <td>Enable Data flow on Servicenow integration, selction the mode, start the Similar Incidents training</td>
         <td>[Details](./62-training-similar-incidents)</td>
